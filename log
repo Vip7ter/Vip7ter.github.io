@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>vip7ter.github.io</title>
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+   <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+		<div class="panel panel-danger" id="ti">
+		<div class="panel-heading">Я: Александр</div>
+  <div class="panel-body">
+     <a class="list-group-item list-group-item-danger" href="mailto:georg@kaluga.net">Моя почта: vip7ter@mail.ru</a>
+			</div></div>
+		
+			<div class=" panel panel-success" id="ti2">
+			<div class="panel-heading">соц. сети:</div>
+			<div class="panel-body">
+				<a href="https://vk.com/thesashka23" class="list-group-item list-group-item-success">vk</a>
+   <a href="https://www.youtube.com/channel/UCqBff-V8pb_z16f_cUUAIYg" class="list-group-item list-group-item-success"> ютуб</a>
+</div>
+			</div>
+			</div>
+    
+			<div class="block1">
+		<div class=" panel panel-warning">
+			<div class="panel-heading">Стандарты для web - разработки</div>
+			<div class="panel-body">
+			<div class="container">
+				<div class="row">
+    	   		<a class="btn btn-warning  btn-outline btn-sm" href="https://jigsaw.w3.org/css-validator/" >Проверка стандартов кодирования CSS</a><br>
+          	<a class="btn btn-warning  btn-outline btn-sm" href="https://validator.w3.org/nu/">Проверка стандартов кодирования HTML</a><br>
+        	  <a class="btn btn-warning  btn-outline btn-sm" href="http://quirktools.com/screenfly/" >Проверка страниц при разном разрешении Screenfly</a><br>
+        	  <a class="btn btn-warning  btn-outline btn-sm" href="https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048">30 CSS селекторов, которые вы должны запомнить</a><br>
+					<a class="btn btn-warning  btn-outline btn-sm" href="https://www.npmjs.com/">Список пакетов npm для Node.js</a><br> 
+					<a class="btn btn-warning  btn-outline btn-sm" href="https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/">Настройка mongoDB на Ubuntu</a><br>
+				</div>
+			</div>
+			</div></div></div>
+        <div class="block2">
+		<div class="panel panel-info">
+			<div class="panel-heading">Справочные материалы:</div>
+			<div class="panel-body">
+			<div class="container">
+				<div class="row">
+    	   		<a class="btn btn-default btn-outline btn-sm" href = "https://webref.ru/css">Справочник CSS</a><br>
+          	<a class="btn btn-default btn-outline btn-sm" href = "https://webref.ru/html">Справочник HTML</a><br>
+            <a class="btn btn-default btn-outline btn-sm" href = "https://learn.javascript.ru/">Учебник по javascript</a><br>
+        	  <a class="btn btn-default btn-outline btn-sm" href = "http://api.jquery.com/">Документация jquery</a><br>
+        	  <a class="btn btn-default btn-outline btn-sm" href = "http://getbootstrap.com/components/">Компоненты bootstrap</a><br>
+					<a class = "btn btn-default btn-outline btn-sm" href = "https://git-scm.com/book/ru/v2">Документация по Git</a><br>
+					<a class = "btn btn-default btn-outline btn-sm" href = "https://nodejs.org/en/docs/">Документация по Node.js</a><br>
+					<a class = "btn btn-default btn-outline btn-sm" href = "https://git-scm.com/book/ru/v2">Документация по mongoDB</a>
+				</div>
+			</div>
+			</div></div></div>
+        
+	<div class="panel panel-primary" id="ti3">
+			<div class="panel-heading">Прочие ресурcы:</div>
+			<div class="panel-body">
+          <a href="https://jsfiddle.net/" class="btn btn-primary">Песочница</a><br>
+            <a href="https://htmlacademy.ru/" class="btn btn-primary">Online курсы</a><br>
+				<a href="https://try.github.io/levels/1/challenges/1" class="btn btn-primary">Тест на знание Git</a><br>
+           <a href="https://docs.google.com/spreadsheets/d/1YFqIVu37nHqkNcwcbMxL1a6OlSJ_TrjZ86Z7zOEdSFA/edit?usp=sharing/" class="btn btn-primary">Таблица успеваемости</a><br>
+		</div></div>
+     
+     
+    <div class="panel panel-default">
+			<div class="panel-heading"> мои планы!:</div>
+			<div class="panel-body">
+    <ol class="list-group">
+			<li class="list-group-item list-group-item-info">купить норамальною камеру!</li>
+      <!--<li class="list-group-item list-group-item-info">1.Расширение функционала подсчета слов: если слово встречается один раз, чтобы писал, нет повторов. Если слово на английском чтобы писал предупреждение на русском</li>-->
+			<li class="list-group-item list-group-item-info">развивать канал</li>
+			<li class="list-group-item list-group-item-info">пусто</li>
+			</div>
+				 <div class="panel panel-default">
+			<div class="panel-heading">всяие вкусняшки</div>
+			<div class="panel-body">
+    <ol class="list-group">
+			<li class="list-group-item list-group-item-info">1.напиши vip7ter.github.io/clock и будет круто</li>
+			<li class="list-group-item list-group-item-info">2. -----</li>
+			<li class="list-group-item list-group-item-info">3. ----</li>
+			</div>
+	</body>
+</html>
